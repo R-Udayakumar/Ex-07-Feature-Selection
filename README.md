@@ -184,7 +184,7 @@ plt.show()
 ```
 ## OUPUT
 ![image](https://user-images.githubusercontent.com/121285701/234180098-8f62791d-1eb3-432d-a15b-d3dc3d39ac5b.png)
-## Data checking and cleaning:
+## Data cleaning:
 ![image](https://user-images.githubusercontent.com/121285701/234180170-e005bc5e-51f5-4f38-a22d-3285b8e662a3.png)
 
 ![image](https://user-images.githubusercontent.com/121285701/234180201-dba4b448-e362-47fc-b0a6-db7ae6b854b0.png)
@@ -199,15 +199,8 @@ plt.show()
 ![image](https://user-images.githubusercontent.com/121285701/234180499-39e9ea84-e810-4975-8759-6e91c9f984a8.png)
 
 ## Feature Selection
-### Filter Method
-
-The filtering here is done using correlation matrix and it is most commonly done using Pearson correlation. 
 ![image](https://user-images.githubusercontent.com/121285701/234180561-cf503486-a4b2-4503-aa51-25b7335ef3e2.png)
-### Highly correlated features with the Output variable
 ![image](https://user-images.githubusercontent.com/121285701/234180964-41d65ce7-88df-477e-8593-d1e16d478d61.png)
-## Wrapper Method:
-
-Wrapper Method is an iterative and computationally expensive process but it is more accurate than the filter method.
 
 There are different wrapper methods such as Backward Elimination, Forward Selection, Bidirectional Elimination and RFE.
 ## Backward Elimination:
