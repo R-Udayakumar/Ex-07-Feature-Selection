@@ -184,37 +184,38 @@ plt.show()
 ```
 ## OUPUT
 ![image](https://user-images.githubusercontent.com/121285701/234180098-8f62791d-1eb3-432d-a15b-d3dc3d39ac5b.png)
-## Data cleaning:
+## DATA HEAD :
+![image](https://github.com/R-Udayakumar/Ex-07-Feature-Selection/assets/118708024/d9dbabf0-6b7d-4297-ba0d-5224b532f3f9)
+## DATA CLEANING:
 ![image](https://user-images.githubusercontent.com/121285701/234180170-e005bc5e-51f5-4f38-a22d-3285b8e662a3.png)
 
 ![image](https://user-images.githubusercontent.com/121285701/234180201-dba4b448-e362-47fc-b0a6-db7ae6b854b0.png)
-## Outlier Removal
+## OUTLIER :
 ![image](https://user-images.githubusercontent.com/121285701/234180345-431ac010-0185-44e9-8614-8d523fd55bfd.png)
 ![image](https://user-images.githubusercontent.com/121285701/234180373-f08e71b7-70bb-4dee-a96b-4acf675bf942.png)
-## Feature Enoding:
+## FEATURE ENCODING :
 ![image](https://user-images.githubusercontent.com/121285701/234180438-5d95b4f2-363b-4a50-9714-eabc6d95a2d5.png)
-## Feature Transformations:
+## FEATURE TRANSFORMATIONS :
 ![image](https://user-images.githubusercontent.com/121285701/234180487-e92fc05f-ca4b-4230-9bd1-7e1fcc6440fb.png)
 
 ![image](https://user-images.githubusercontent.com/121285701/234180499-39e9ea84-e810-4975-8759-6e91c9f984a8.png)
 
-## Feature Selection
+## FEATURE SELECTION :
 ![image](https://user-images.githubusercontent.com/121285701/234180561-cf503486-a4b2-4503-aa51-25b7335ef3e2.png)
 ![image](https://user-images.githubusercontent.com/121285701/234180964-41d65ce7-88df-477e-8593-d1e16d478d61.png)
 
-There are different wrapper methods such as Backward Elimination, Forward Selection, Bidirectional Elimination and RFE.
-## Backward Elimination:
+## BACKWARD ELIMINATION :
 ![image](https://user-images.githubusercontent.com/121285701/234181077-649ddf00-de73-463b-807d-3875a7fd7083.png)
 
-![image](https://user-images.githubusercontent.com/121285701/234181108-3df44e75-b07f-4103-9bbc-a7895a3eba6a.png)
-## RFE (Recursive Feature Elimination):
-![image](https://user-images.githubusercontent.com/121285701/234181244-7b63c6d4-c659-4109-aab6-596f9695a7ff.png)
-## Optimum number of features that have high accuracy:
-![image](https://user-images.githubusercontent.com/121285701/234181313-49b64c05-52d6-4208-84dd-408509203b53.png)
-### Final set of feature:
-![image](https://user-images.githubusercontent.com/121285701/234181362-33bf7f6b-584b-45c9-b78d-adc5b7140480.png)
+![Screenshot 2023-06-02 113336](https://github.com/R-Udayakumar/Ex-07-Feature-Selection/assets/118708024/c41025e6-c3ef-4423-ba84-bf1a86914fef)
 
-## Embedded Method:
+![image](https://github.com/R-Udayakumar/Ex-07-Feature-Selection/assets/118708024/addadd6c-d579-436e-a4fa-ea129ae28263)
+
+![Screenshot 2023-06-02 113712](https://github.com/R-Udayakumar/Ex-07-Feature-Selection/assets/118708024/e3f15c66-e662-4655-a3e1-7d2f6ee4a8ca)
+
+![image](https://github.com/R-Udayakumar/Ex-07-Feature-Selection/assets/118708024/682d8747-91ae-42a9-8bf2-d25afb176888)
+
+## EMBEDDED METHOD :
 ![image](https://user-images.githubusercontent.com/121285701/234181405-29fe4b22-001c-4ed5-a4a3-858cabb77027.png)
 
 ## RESULT:
